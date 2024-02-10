@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bitrzeitapp</string>
+    <string-array name="location_array">
+        <item>IT Gate</item>
+        <item> Main Gate</item>
+        <item>Naseeb aziz Shahein</item>
+        <item> Kamal naser</item>
+    </string-array>
+</resources>
